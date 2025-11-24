@@ -1,3 +1,3 @@
 # Demo
 
-Somwe description!
+Some description!
